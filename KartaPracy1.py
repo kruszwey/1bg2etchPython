@@ -31,6 +31,6 @@
 # print(brutto/ 1.23)
 
 #zad 7
-a = int(input())
-b = int(input())
-print(a % b)
+# a = int(input())
+# b = int(input())
+# print(a % b)
