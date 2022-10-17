@@ -17,4 +17,21 @@
 
 # Zad 2
 # for i in range(105,1000,15) :
-#   print(i, end=" ")
+#   print(i, end=" ") 
+
+# Zad 3
+# n int(input())
+# for i in range(1, n+1):
+#   if n % i == 0:
+#     print(i)
+# PRE 2
+
+# Pętle for liczb trzycyfrowych podzielnych przez 13
+# for i in range(104,999,13):
+#   print(i, end =" ")
+# Pętle for liczb dwucyfrowych parzystych
+# for i in range (10, 99, 2):
+#   print(i, end = " ")
+# Pętle for potęg cyfr: 0, 1, 4, 9, 16 .. 81 
+# for i in range(0, 10):
+#   print(i**2)
