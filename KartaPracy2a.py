@@ -66,6 +66,6 @@
 # elif a*a+b*b < c*c:
 #   print("rozwatokątny")
 # elif a*a+b*b > c*c:
-#   print("ostrokątny")
+   print("ostrokątny")
 
   

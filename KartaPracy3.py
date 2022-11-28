@@ -32,9 +32,21 @@
 # print(suma)
 
 #(TRUDNE) Zad 5
-for i in range(5):
-  
+# n  = int(input())
+# suma = n * (n+1) // 2 
 
+# for i in range(n-1):
+#   k = int(input(()
+#   suma = suma - k
+#   print(suma)
+
+# Zad 6
+# n = int(input())
+# a, b = 0, 1
+
+# for i in range(n):
+#   a,b = b, a + b
+#   print(a, end =" ")
 # PRE 2
 
 
