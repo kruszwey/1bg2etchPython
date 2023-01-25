@@ -19,6 +19,10 @@
 #   if i % 5 == 0 or i % 6 == 0 or i % 11 == 0:
 #     print(i)
 
+
+# Ważne
+
+
 # Zad 5
 # n = int(input())
 # g = 0
@@ -26,10 +30,6 @@
 #   k = int(input())
 #   g += k
 # print(g)
-
-
-# WAŻNE
-
 
 # ZAD 6
 
@@ -39,6 +39,7 @@
 #   a += i
 # print(a)
 
+
 # ZAD 7
 # m = int(input())
 # a = 0 
@@ -47,7 +48,8 @@
 #     a += i
 # print(a)
 
-# ZAD 8 (BARDZO TRUDNE)n
+
+# ZAD 8 (BARDZO TRUDNE)
 
 # procent = 6 
 # L = float(input("Podaj długość trwania inwestycji: "))
