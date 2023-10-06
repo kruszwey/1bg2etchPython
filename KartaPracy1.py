@@ -34,3 +34,13 @@
 # a = int(input())
 # b = int(input())
 # print(a % b)
+
+słowo = input("Podaj słowo: ")
+
+podsłowa = [słowo[i: j] for i in range(len(słowo))
+          for j in range(i + 1, len(słowo) + 1)]
+
+wynik = [podsłowo for podsłowo in podsłowa if podsłowo[0] == 'p']
+
+print("Podsłowa z literą początkową:")
+print(wynik)

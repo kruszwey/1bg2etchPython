@@ -73,3 +73,8 @@
 #   print(f"Nie, {i} i {m} są względnie pierwsze")
 
 
+word = input("Podaj słowo: ")
+subwords = [word[i:j] 
+            for i in range(len(word)) 
+            for j in range(i+1, len(word)+1) if word[i] == word[j-1]]
+print("Pod słowa z literą początkową w słowie", word, "to:", subwords)
