@@ -29,7 +29,7 @@ for j in range(2,F):
     break
 print(d,n)
 
-#  Jak szyfrować?
+# Jak szyfrować?
 # mamy  m - wiadomość
 # c = m**e % n (c- cipher - szyfrogram, tekst zaszyfrowany)
 # t = c**d % n (t - text - tekst jawny - znów wiadomość m)
